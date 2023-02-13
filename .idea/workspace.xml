@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aeb24531-4964-4f9d-bd5b-28dbbf5e7ff9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SubWordFinder.java" afterDir="false" />
+    <list default="true" id="aeb24531-4964-4f9d-bd5b-28dbbf5e7ff9" name="Changes" comment="Returns sub word of a word">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,11 +68,34 @@
       <workItem from="1675266851677" duration="3650000" />
       <workItem from="1675431067050" duration="8584000" />
       <workItem from="1676035429596" duration="10000" />
-      <workItem from="1676039427352" duration="1136000" />
+      <workItem from="1676039427352" duration="1812000" />
     </task>
+    <task id="LOCAL-00001" summary="Returns sub word of a word">
+      <created>1676041870601</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676041870601</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Returns sub word of a word" />
+    <option name="LAST_COMMIT_MESSAGE" value="Returns sub word of a word" />
   </component>
 </project>
